@@ -1,6 +1,2 @@
-\# Git Learning
-
-
-
-My first GitHub repository.
+This line was added in the feature branch.
 
