@@ -24,9 +24,34 @@ button {
     border-radius: 8px;
     cursor: pointer;
     font-size: 16px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.2);
 }
 button:hover {
     background: darkblue;
+    transform: scale(1.1);
+    transition: 0.3s;
+}button:hover {
+    background: darkblue;
+    transform: scale(1.05);
+    transition: 0.3s;
+}
+button:hover {
+    background: darkblue;
+    transform: scale(1.05);
+    transition: 0.3s;
+}button:hover {
+    background: darkblue;
+    transform: scale(1.05);
+    transition: 0.3s;
+}
+button:hover {
+    background: darkblue;
+    transform: scale(1.05);
+    transition: 0.3s;
+}button:hover {
+    background: darkblue;
+    transform: scale(1.05);
+    transition: 0.3s;
 }
 .avatar {
     width: 150px;
@@ -69,7 +94,17 @@ textarea {
     border: 1px solid gray;
     box-sizing: border-box;
 }
+.skills {
+    display: flex;
+    gap: 20px;
+}
 
+.skill {
+    background: royalblue;
+    color: white;
+    padding: 15px;
+    border-radius: 15px;
+}
 
 
 
